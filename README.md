@@ -8,6 +8,11 @@
 ## Calculus?
  - infinite series visualizer with point plotting
  - integral / volume of rotated solids visualizer (with JS Canvas? does that have 3D?)
+ - learn haskell and do cool things with it
+ - 
+
+## Physics
+ - physics simulator with springs and falling objects and oscillators and stuff
  - 
 
 ## Other
