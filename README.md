@@ -7,7 +7,7 @@
 
 ## Calculus?
  - infinite series visualizer with point plotting
- - integral / volume of rotated solids visualizer (with JS Canvas? does that have 3D?)
+ - integral / volume of rotated solids visualizer ([with this, maybe?](https://threejs.org/))
  - learn haskell and do cool things with it
  - 
 
@@ -16,4 +16,5 @@
  - 
 
 ## Other
+- build out blog
 - 
